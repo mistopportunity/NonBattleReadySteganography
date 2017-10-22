@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtrocitiesForFiles", "AtrocitiesForFiles\AtrocitiesForFiles.csproj", "{EA91F531-DD7A-49F4-9290-23E3D9846F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimesAgainstJavaScript", "CrimesAgainstJavaScript\CrimesAgainstJavaScript.csproj", "{F4063196-1DB3-417B-8CBD-4F9018ECBDB1}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA91F531-DD7A-49F4-9290-23E3D9846F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA91F531-DD7A-49F4-9290-23E3D9846F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA91F531-DD7A-49F4-9290-23E3D9846F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA91F531-DD7A-49F4-9290-23E3D9846F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4063196-1DB3-417B-8CBD-4F9018ECBDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4063196-1DB3-417B-8CBD-4F9018ECBDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4063196-1DB3-417B-8CBD-4F9018ECBDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4063196-1DB3-417B-8CBD-4F9018ECBDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
